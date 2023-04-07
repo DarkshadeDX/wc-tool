@@ -1788,7 +1788,8 @@ namespace WC3_TOOL
 "むねキュン",
 "モ-レツ",
 "ヤング",
-"レッツラゴ-"
+"レッツラゴ-",
+""
 			};
 		public static object[] easy_chat_esp = {
 "=== POKéMON ===",
@@ -3560,8 +3561,9 @@ namespace WC3_TOOL
 "QUÉ MUERMO",
 "CARROZA",
 "¡DEBUTEN!",
-"¡QUÉ BAJÓN!"
-			};
+"¡QUÉ BAJÓN!",
+""
+            };
 		public static object[] easy_chat_ger = {
 			"=== POKéMON ===",
 			"GECKARBOR",
@@ -5332,8 +5334,9 @@ namespace WC3_TOOL
 			"HOLDE",
 			"OLL",
 			"JUNG",
-			"ÄTZEND"
-		};
+			"ÄTZEND",
+""
+        };
 		public static object[] easy_chat_eng = {
 "=== POKéMON ===",
 "TREECKO",
@@ -7104,8 +7107,9 @@ namespace WC3_TOOL
 "HEART",
 "OLD",
 "YOUNG",
-"UGLY"
-		};
+"UGLY",
+""
+        };
 		public static object[] easy_chat_fre = {
 "=== POKéMON ===",
 "ARCKO",
@@ -8876,8 +8880,9 @@ namespace WC3_TOOL
 "DONZELLE",
 "RELAX, MAX",
 "JEUNOT",
-"NAZE"
-		};
+"NAZE",
+""
+        };
 		public static object[] easy_chat_ita = {
 "=== POKéMON ===",
 "TREECKO",
@@ -10648,8 +10653,9 @@ namespace WC3_TOOL
 "MAXI",
 "MATUSA",
 "PANINARO",
-"CHE PIZZA"
-		};
+"CHE PIZZA",
+""
+        };
 		
 	}
 }
